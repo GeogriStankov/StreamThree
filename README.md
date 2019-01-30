@@ -19,6 +19,6 @@ Python, Django, HTML, CSS and JavaScript were used to create the website. Bootst
 ### Testing
 The codes used on the site are checked to ensure its proper functioning. The site has been tested on - Mozilla Firebox, Google Chrome, Opera.
 ### Running the site
-The website can be found at https://lit-inlet-41136.herokuapp.com/ requires no other than a web browser such as Mozilla Firebox, Google Chrome, Opera, etc. which can read HTML, CSS and JavaScript.
+The website can be found at https://probno.herokuapp.com/ requires no other than a web browser such as Mozilla Firebox, Google Chrome, Opera, etc. which can read HTML, CSS and JavaScript.
 ### Media and information origins
 Information regarding baroque style is taken from Wikipedia and own knowledge. Product names, sizes and prices are made up.
